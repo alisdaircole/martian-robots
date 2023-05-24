@@ -20,7 +20,7 @@ Run the following command to execute tests
 
 Points that could be improved with additional time:
 
-- Update objects to be immutable, make code more functional rather than iterative
+- Update objects to be immutable, make code more functional rather than imperative
 - Acceptance testing, test full flow end to end
 - Add tests for ParseInput class
 - Add more test cases for MarsSurfaceTest
